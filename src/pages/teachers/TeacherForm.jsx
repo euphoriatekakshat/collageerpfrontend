@@ -1,0 +1,1 @@
+export { TeacherForm as default } from './Teachers';

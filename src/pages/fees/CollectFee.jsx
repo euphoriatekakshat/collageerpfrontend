@@ -1,0 +1,1 @@
+export { CollectFee as default } from './Fees';
